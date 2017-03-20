@@ -1,0 +1,46 @@
+body {
+	background: url('bFEt4ie.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  font-family: 'Noto Sans', sans-serif;
+}
+h1{
+	color: black;
+	font-size: 50px;
+	font-weight: normal;
+}
+
+h2{
+	color: black;
+	font-size: 20px;
+	margin-top: 0;
+}
+
+
+.bio{
+	color: black;
+}
+
+
+.me {
+	height: 150px; 
+	border-radius: 10px;
+	border-style: solid;
+	border-color: black;
+	margin-top: 40px;
+}
+
+
+.about{
+	width:500px;
+	margin-left: 100px;
+	text-align: center;
+}
+
+
+.grey{
+	height: 3px;
+	background-color: #7b7c7c;
+}
